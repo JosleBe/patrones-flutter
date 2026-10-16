@@ -13,6 +13,7 @@ class ConsumoEnMemoria implements AlmacenConsumo {
 
   @override
   List<double> todos() => List<double>.from(_litros);
+
 }
 
 class PantallaConsumo extends StatefulWidget {

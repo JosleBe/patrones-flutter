@@ -16,7 +16,6 @@ class LabQueFalla implements FuenteLab {
   }
 }
 
-/// Esta clase NO cambia entre los dos modos.
 class PantallaRegistro extends StatelessWidget {
   const PantallaRegistro({super.key, required this.fuente});
 
